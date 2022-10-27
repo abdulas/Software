@@ -11,4 +11,4 @@
 
 ### Bilde om Actions loggen.
 
- <img src="../bilder/hav_med_fjel.jpg" alt="">
+ <img widht:200px; src="images/logg" alt="">
