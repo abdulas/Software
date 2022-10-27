@@ -11,4 +11,4 @@
 
 ### Bilde om Actions loggen.
 
- <img widht:200px; src="images/logg.png" alt="">
+ <img style = "width:200px;"; src="images/logg.png" alt="">
